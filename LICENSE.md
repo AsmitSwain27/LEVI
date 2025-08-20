@@ -1,5 +1,4 @@
-Copyright (c) 2025 Asmit Swain
-Copyright (c) 2025 Abhijeet Soren
+Copyright (c) 2025 Asmit Swain and Abhijeet Soren
 
 **All Rights Reserved**
 
